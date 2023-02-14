@@ -11,7 +11,7 @@ You can check out my porfolio on facebook or reach out to me on Linkedin
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   
-   <a href="your-linkedin-URL">
+   <a href="https://www.linkedin.com/in/kenneth-rockson-35956119b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
