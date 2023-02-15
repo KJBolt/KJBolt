@@ -1,5 +1,5 @@
 <hr/>
-I am Kenneth Rockson a passionate developer with over 4 years of experience developing full scale web and mobile applications. I am an enthusiastic person that loves exploring other aspects of technology not limited only to software development. 
+I am Kenneth Rockson a passionate developer with over 4 years of experience developing full scale web and mobile applications. I am an enthusiastic person that loves exploring other aspects of technology not limited to software development. 
 <br/>
 <br/>
 Over they years i have acquired numerous skills in various aspects that ranges from Graphic design, Game development, Video editing and among others. I am always motivated to develop challenging projects which enables me improve as a developer as well as enhance my research and debugging skills when faced with challenges along the way. This initiative has really paid off and am very excited about my journey so far.
