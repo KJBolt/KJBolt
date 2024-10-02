@@ -1,8 +1,9 @@
 <hr/>
-I am Kenneth Rockson a passionate developer with over 5 years of experience developing full scale web and mobile applications. Am enthusiastic about exploring other aspects of technology not limited to software development. 
-<br/>
-<br/>
-I have worked on several projects including blog posts, company websites, ecommerce, mobile apps and so on. My passion for acquiring new skills has facilitated the expansion of my expertise across various platforms, including Web and Mobile App Development. My versatility, collaborative spirit, and dedication to shared values makes me a great fit in any variety of setting, and am committed to creating a hospitable and good working atmosphere.
+As a passionate developer with over 5 years of experience in building full-scale web and mobile applications, I am committed to delivering high-quality, user-friendly solutions. My enthusiasm extends beyond software development, as I continually explore other areas of technology to broaden my expertise.
+
+Throughout my career, I have successfully worked on a wide range of projects, including blog platforms, corporate websites, e-commerce solutions, and mobile applications. My dedication to acquiring new skills has enabled me to become proficient in both Web and Mobile App Development, while my collaborative nature and adaptability allow me to thrive in diverse work environments.
+
+I am driven by a strong sense of shared values, fostering teamwork and a positive working atmosphere. I look forward to contributing to innovative projects and cultivating a professional, hospitable work environment.
 <br/>
 <br/>
  Reach out to me on Linkedin lets have a discussion
