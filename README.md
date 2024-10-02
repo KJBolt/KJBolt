@@ -6,6 +6,7 @@ I have worked on several projects including blog posts, company websites, ecomme
 <br/>
 <br/>
  Reach out to me on Linkedin lets have a discussion
+ <br/>
 <div id="badges">
   <a href="https://web.facebook.com/kenneth.rockson/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
@@ -16,9 +17,6 @@ I have worked on several projects including blog posts, company websites, ecomme
   </a>
 </div>
 <hr/>
-
-<br/>
-
 
 ### :hammer_and_wrench: Tools and Languages :
 <div>
