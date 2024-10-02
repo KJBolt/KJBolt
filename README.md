@@ -5,7 +5,7 @@ I am Kenneth Rockson a passionate developer with over 5 years of experience deve
 I have worked on several projects including blog posts, company websites, ecommerce, mobile apps and so on. My passion for acquiring new skills has facilitated the expansion of my expertise across various platforms, including Web and Mobile App Development. My versatility, collaborative spirit, and dedication to shared values makes me a great fit in any variety of setting, and am committed to creating a hospitable and good working atmosphere.
 <br/>
 <br/>
-You can check out my porfolio on facebook or reach out to me on Linkedin
+ Reach out to me on Linkedin lets have a discussion
 <div id="badges">
   <a href="https://web.facebook.com/kenneth.rockson/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
@@ -16,6 +16,8 @@ You can check out my porfolio on facebook or reach out to me on Linkedin
   </a>
 </div>
 <hr/>
+
+<br/>
 
 
 ### :hammer_and_wrench: Tools and Languages :
