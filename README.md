@@ -8,10 +8,6 @@ I have worked on several projects including blog posts, company websites, ecomme
  Reach out to me on Linkedin lets have a discussion
  <br/>
 <div id="badges">
-  <a href="https://web.facebook.com/kenneth.rockson/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  
    <a href="https://www.linkedin.com/in/kenneth-rockson-35956119b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
