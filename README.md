@@ -1,5 +1,5 @@
 <hr/>
-As a passionate developer with over 4 years of experience in building full-scale web and mobile applications, I am committed to delivering high-quality, user-friendly solutions. My enthusiasm extends beyond software development, as I continually explore other areas of technology to broaden my expertise.
+As a passionate developer with 3 years of experience in building full-scale web and mobile applications, I am committed to delivering high-quality, user-friendly solutions. My enthusiasm extends beyond software development, as I continually explore other areas of technology to broaden my expertise.
 
 Throughout my career, I have successfully worked on a wide range of projects, including blog platforms, corporate websites, e-commerce solutions, and mobile applications. My dedication to acquiring new skills has enabled me to become proficient in both Web and Mobile App Development, while my collaborative nature and adaptability allow me to thrive in diverse work environments.
 
